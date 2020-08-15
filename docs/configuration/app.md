@@ -101,7 +101,7 @@ In order for this plugin to work, you need to set `DISPATCH_JWT_SECRET`.
 
 #### Configuration for `dispatch-auth-provider-pkce`
 
-#### `DISPATCH_AUTHENTICATION_PROVIDER_PKCE_JWK` \['default': true\]
+#### `DISPATCH_AUTHENTICATION_PROVIDER_PKCE_JWKS` \['default': true\]
 
 > Used by Dispatch's authentication backend to pull the JSON Web Key Set \(JWKS\) public key from the specified provider.
 
